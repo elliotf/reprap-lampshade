@@ -1,1 +1,1 @@
-Moved to https://github.com/elliotf/reprap-misc/tree/master/lampshade in an effort to consolidate
+Moved to https://github.com/elliotf/reprap-misc in an effort to consolidate
